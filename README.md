@@ -1,4 +1,4 @@
-# App Dev - Developing a Backend Service: Node.js
+# Goolge Cloud Platform - App Dev - Developing a Backend Service: Node.js
 We will
 - Create a Cloud Pub/Sub topic.
 - Publish messages to the topic.
