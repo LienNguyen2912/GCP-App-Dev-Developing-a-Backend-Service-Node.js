@@ -690,6 +690,6 @@ We did
 - Develop a Cloud Spanner database schema.
 - Insert data into a Cloud Spanner database.
 
-## Referenence
+## Reference
 **Google Cloud Fundamentals: Securing and Integrating Components of your Application** course
 https://www.coursera.org/learn/securing-integrating-components-app/home/welcome
